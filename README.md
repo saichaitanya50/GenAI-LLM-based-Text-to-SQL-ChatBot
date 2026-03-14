@@ -27,10 +27,7 @@ This project is applicable in various domains, including healthcare, retail, and
 To get started with the Text to SQL Chatbot, follow these steps:
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/pik1989/Text-to-SQL-Chatbot.git
-   cd Text-to-SQL-Chatbot
-   ```
+
 
 2. **Set Up MySQL**:
    - Create a MySQL database and tables as specified in the project.
