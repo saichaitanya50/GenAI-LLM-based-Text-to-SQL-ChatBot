@@ -65,8 +65,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Feel free to contribute to this project or reach out with any questions! Happy coding! 🎉
 ```
-
-# Notes:
-- Replace `pik1989` in the clone command with your actual GitHub username.
-- Update the path to the architecture diagram image in the Markdown.
-- Customize any sections as needed to better fit your project specifics.
